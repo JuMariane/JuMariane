@@ -1,14 +1,14 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there!     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="65">&nbsp;
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="66" /> About Me:
 - 🏦 I am currently attending High School with a technical focus in Systems Development at E.E. PEI Ruy Rodriguez, with an expected graduation date of 2026.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 Currently, I am an apprentice at Mackenzie Presbyterian University, working as an office assistant.
 - 💻 I use daily: **.js**, **.html**, **.py**,  **.css**
 - 📖 I have an intermediate (B1) level of English, studying on a full scholarship at Education First.
-- 💬I am learning to develop websites.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬I am learning to develop websites.
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
