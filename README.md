@@ -3,12 +3,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 Estou cursando o Ensino Médio com formação técnica em Desenvolvimento de Sistemas na E.E. PEI Ruy Rodriguez, com conclusão prevista para 2026.
+- 🏦 I am currently attending High School with a technical focus in Systems Development at E.E. PEI Ruy Rodriguez, with an expected graduation date of 2026.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 Atualmente, sou aprendiz na Universidade Presbiteriana Mackenzie, atuando como auxiliar de escritório.
+- 📝 Currently, I am an apprentice at Mackenzie Presbyterian University, working as an office assistant.
 - 💻 I use daily: **.js**, **.html**, **.py**,  **.css**
-- 📖 Tenho nível intermediario de inglês (B1), como bolsista 100% na Education First.
-- 💬 Estou aprendendo a desenvolver sites.
+- 📖 I have an intermediate (B1) level of English, studying on a full scholarship at Education First.
+- 💬I am learning to develop websites.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
