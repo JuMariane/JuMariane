@@ -9,7 +9,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuMariane&show_icons=true&theme=outrun" alt="Julia Mariane's GitHub stats" />
   
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponjjar&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuMariane&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
 </div>
 
 
