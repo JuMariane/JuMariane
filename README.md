@@ -19,9 +19,11 @@
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="python" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="python" width="55" height="55"/>
 
-<p align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
+
 
 
 
