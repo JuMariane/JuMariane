@@ -1,8 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
 
-# Hi there!     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="65">&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!)](https://git.io/typing-svg)
+
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ponjjar&show_icons=true&theme=outrun" alt="Caique Ponjjar's GitHub stats" />
+  
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponjjar&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+</div>
+
+
+
 
 ###  About Me:
 - 🏦 I am currently attending High School with a technical focus in Systems Development at E.E. PEI Ruy Rodriguez, with an expected graduation date of 2026.
