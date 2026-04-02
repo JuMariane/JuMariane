@@ -9,7 +9,7 @@
 
 
 ###  About Me:
-- 🏦 I am currently attending High School with a technical focus in Systems Development at E.E. PEI Ruy Rodriguez, with an expected graduation date of 2026.
+- 🏦 I am currently attending High School with a technical focus in Systems Development.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 Currently, I am an apprentice at Mackenzie Presbyterian University, working as an office assistant.
 - 💻 I use daily: **.js**, **.html**, **.py**,  **.css**
