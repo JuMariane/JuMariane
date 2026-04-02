@@ -6,13 +6,6 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuMariane&show_icons=true&theme=outrun" alt="Julia Mariane's GitHub stats" />
-  
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuMariane&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
-</div>
-
-
 
 
 ###  About Me:
