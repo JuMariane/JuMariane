@@ -17,14 +17,18 @@
 - 💬I am learning to develop websites.
 - 🧑‍💻 Tech I work on :
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="python" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="python" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="python" width="55" height="55"/>
-   <a href="https://www.linkedin.com/in/julia-mariane-santos/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="python" width="55" height="55"/>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="55" height="55"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="55" height="55"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55"/></td>
+      <td><a href="https://www.linkedin.com/in/julia-mariane-santos/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="55" height="55"/></a></td>
+    </tr>
+  </table>
+</div>
 
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
 
