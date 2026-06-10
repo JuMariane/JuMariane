@@ -24,7 +24,8 @@
       <td><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="55" height="55"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="55" height="55"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55" height="55"/></td>
-      <td><a href="https://www.linkedin.com/in/julia-mariane-santos/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="55" height="55"/></a></td>
+      <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55"/></td>
+   <td><a href="https://www.linkedin.com/in/julia-mariane-santos/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="55" height="55"/></a></td>
     </tr>
   </table>
 </div>
