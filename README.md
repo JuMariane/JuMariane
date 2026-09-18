@@ -11,7 +11,6 @@
 - 💻 I use daily: **.js**, **.html**, **.py**,  **.css**
 - 📖 I have an intermediate (B1) level of English, studying on a full scholarship at Education First.
 - 💬I am learning to develop websites.
-- 🧑‍💻 Tech I work on :
 <div align="center">
   <table border="0">
     <tr>
